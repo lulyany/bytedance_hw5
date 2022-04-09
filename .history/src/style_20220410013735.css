@@ -1,0 +1,36 @@
+
+.github_icon{
+    background:white; 
+    border-radius: 12px;
+}
+
+.github_icon:hover{
+    background:grey; 
+}
+
+.nav-link.active:hover{
+color: #00b3ff;
+}
+
+.logo_Ukns{
+    margin-top: 60px;
+    width: 539px;
+}
+
+.web-header{
+    display: flex;
+    align-items: flex-start;
+    background-color: #000;
+    background-image: url(https://lf3-static.bytednsdoc.com/obj/eden-cn/aphqeh7uhohpquloj/modern-js/bg.png);
+    background-origin: border-box;
+    background-position: bottom;
+    background-size: cover;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 691px;
+    justify-content: flex-start;
+    overflow: hidden;
+    padding-left: 18%;
+    position: relative;
+}

@@ -1,0 +1,108 @@
+
+.github_icon{
+    background:white; 
+    border-radius: 12px;
+}
+
+.github_icon:hover{
+    background:grey; 
+}
+
+.nav-link.active:hover{
+color: #00b3ff;
+}
+
+.logo_Ukns{
+    margin-top: 60px;
+    width: 539px;
+}
+
+.web-header{
+    display: flex;
+    align-items: flex-start;
+    background-color: #000;
+    background-image: url(https://lf3-static.bytednsdoc.com/obj/eden-cn/aphqeh7uhohpquloj/modern-js/bg.png);
+    background-origin: border-box;
+    background-position: bottom;
+    background-size: cover;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 691px;
+    justify-content: flex-start;
+    overflow: hidden;
+    padding-left: 18%;
+    position: relative;
+}
+
+.web-title{
+    color: #fff;
+    font-family: Noto Sans SC;
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 21px;
+}
+
+.start_RUNT{
+    background: linear-gradient(274.85deg,#4ecaff 3%,#64cfde 97.17%);
+    border-radius: 39px;
+    box-shadow: 0 1px 39px rgba(133,250,202,.34);
+    display: flex;
+    height: 48px;
+    justify-content: center;
+    line-height: 48px;
+    width: 147px;
+    text-decoration: none;
+    color: #000;
+    transition: opacity;
+}
+.start_RUNT:hover {
+    color: #000;
+    /* transition: 0.3s; */
+}
+.card_LAt6, .start_RUNT {
+    align-items: center;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+.doc-btn_gVIP {
+    align-items: center;
+    background: hsla(0,0%,100%,.07);
+    border: 1px solid #4ecaff;
+    border-radius: 39px;
+    box-sizing: border-box;
+    color: #00b3ff;
+    cursor: pointer;
+    display: flex;
+    height: 49px;
+    justify-content: center;
+    margin-left: 32px;
+    transition: .3s;
+    width: 130px;
+    text-decoration: none;
+}
+
+.header-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 87px;
+}
+
+.guider{
+    display: flex;
+    background-color: #000;
+}
+
+
+.d-flex.bd-highlight.bg-dark a{
+    color: #fff;
+}
+
+.d-flex.bd-highlight.bg-dark a:hover{
+    background: linear-gradient(0, rgba(46,232,246,.3), r);
+}

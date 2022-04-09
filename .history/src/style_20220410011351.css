@@ -1,0 +1,13 @@
+
+.github_icon{
+    background:white; 
+    border-radius: 12px;
+}
+
+.github_icon:hover{
+    background:grey; 
+}
+
+.nav-item.me-2{
+color: #00b3ff;
+}

@@ -1,0 +1,23 @@
+
+.github_icon{
+    background:white; 
+    border-radius: 12px;
+}
+
+.github_icon:hover{
+    background:grey; 
+}
+
+.nav-link.active:hover{
+color: #00b3ff;
+}
+
+.logo_Ukns{
+    margin-top: 60px;
+    width: 539px;
+}
+
+.web-header{
+    display: flex;
+    align-items: flex-start;
+}
